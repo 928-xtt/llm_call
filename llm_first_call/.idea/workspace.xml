@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8f28084-66cd-4fde-b09d-9aae93771945" name="更改" comment="ApiKey隐藏">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8f28084-66cd-4fde-b09d-9aae93771945" name="更改" comment="ApiKey隐藏" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +42,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PythonCode/llm_first_call",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -67,6 +66,7 @@
       <workItem from="1788579167532" duration="12000" />
       <workItem from="1788579188629" duration="1712000" />
       <workItem from="1788830269291" duration="955000" />
+      <workItem from="1788831512512" duration="220000" />
     </task>
     <task id="LOCAL-00001" summary="ApiKey隐藏">
       <option name="closed" value="true" />
